@@ -1,0 +1,50 @@
+Quartus II Archive log --	C:/Users/baran/OneDrive/Desktop/Bozduman_BaranHasan_171044036.qarlog
+
+Archive:	C:/Users/baran/OneDrive/Desktop/Bozduman_BaranHasan_171044036.qar
+Date:		Wed Jan 20 15:32:51 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/workspace/db/homework.db_info
+C:/altera/13.1/workspace/homework.qpf
+C:/altera/13.1/workspace/homework.qsf
+C:/altera/13.1/workspace/hw/alu1bit.v
+C:/altera/13.1/workspace/hw/alu32bit.v
+C:/altera/13.1/workspace/hw/alu_control.v
+C:/altera/13.1/workspace/hw/controlUnit.v
+C:/altera/13.1/workspace/hw/data_mem.v
+C:/altera/13.1/workspace/hw/instruction_mem.v
+C:/altera/13.1/workspace/hw/instructionfile.txt
+C:/altera/13.1/workspace/hw/mips.v
+C:/altera/13.1/workspace/hw/mux2s_1bit.v
+C:/altera/13.1/workspace/hw/mux2s_32bit.v
+C:/altera/13.1/workspace/hw/mux4s_1bit.v
+C:/altera/13.1/workspace/hw/registers.txt
+C:/altera/13.1/workspace/hw/registers.v
+C:/altera/13.1/workspace/hw/shiftleft2.v
+C:/altera/13.1/workspace/hw/signExtender.v
+C:/altera/13.1/workspace/hw/testb_alu1bit.v
+C:/altera/13.1/workspace/hw/testb_alu32bit.v
+C:/altera/13.1/workspace/hw/testb_alu_control.v
+C:/altera/13.1/workspace/hw/testb_controlUnit.v
+C:/altera/13.1/workspace/hw/testb_data_mem.v
+C:/altera/13.1/workspace/hw/testb_instruction_mem.v
+C:/altera/13.1/workspace/hw/testb_mips.v
+C:/altera/13.1/workspace/hw/testb_mux2s_1bit.v
+C:/altera/13.1/workspace/hw/testb_mux2s_32bit.v
+C:/altera/13.1/workspace/hw/testb_mux4s_1bit.v
+C:/altera/13.1/workspace/hw/testb_registers.v
+C:/altera/13.1/workspace/hw/testb_shiftleft2.v
+C:/altera/13.1/workspace/hw/testb_signExtender.v
+C:/altera/13.1/workspace/hw/testb_zeroExt.v
+C:/altera/13.1/workspace/hw/zeroExt.v
+C:/altera/13.1/workspace/incremental_db/compiled_partitions/homework.db_info
+C:/altera/13.1/workspace/simulation/modelsim/datamemory.txt
+C:/altera/13.1/workspace/simulation/modelsim/instructionfile.txt
+C:/altera/13.1/workspace/simulation/modelsim/registers.txt
+C:/altera/13.1/workspace/simulation/modelsim/registersout.txt
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 39 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
